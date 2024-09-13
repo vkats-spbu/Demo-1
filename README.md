@@ -1,7 +1,11 @@
-#Demo project 1
-#Author
+# Demo project 1
+
+# Author
+
 Victor Kats v.kats@spbu.ru
-#Build
+# Build
+
 make
-#Run
+# Run
+
 TBD
